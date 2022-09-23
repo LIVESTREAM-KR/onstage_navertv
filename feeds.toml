@@ -1,0 +1,9 @@
+[clips]
+title = "네이버 TV ─ 온스테이지"
+url = "https://tv.naver.com/onstage/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+contentSelector = "span.tm_b"
+waitForSelector = "div[class^='cds _MM_CARD']"
+onFail = "stale"
