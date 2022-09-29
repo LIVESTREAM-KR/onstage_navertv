@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2022-09-29T01:04:26.096Z</updated>
+    <updated>2022-09-29T04:12:08.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[야마가타 트윅스터_멋진사람]]></title>
+        <id>https://tv.naver.com/v/29527815</id>
+        <link href="https://tv.naver.com/v/29527815"/>
+        <updated>2022-09-29T04:12:07.728Z</updated>
+        <content type="html"><![CDATA[7:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[야마가타 트윅스터_후쿠시마러버]]></title>
+        <id>https://tv.naver.com/v/29527748</id>
+        <link href="https://tv.naver.com/v/29527748"/>
+        <updated>2022-09-29T04:12:07.728Z</updated>
+        <content type="html"><![CDATA[5:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[야마가타 트윅스터_이단옆차기하다]]></title>
+        <id>https://tv.naver.com/v/29527725</id>
+        <link href="https://tv.naver.com/v/29527725"/>
+        <updated>2022-09-29T04:12:07.728Z</updated>
+        <content type="html"><![CDATA[4:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문없는집_시간이 흐르지 않는 친구에게]]></title>
         <id>https://tv.naver.com/v/29368590</id>
@@ -192,27 +213,6 @@
         <id>https://tv.naver.com/v/28462272</id>
         <link href="https://tv.naver.com/v/28462272"/>
         <updated>2022-09-23T20:14:33.827Z</updated>
-        <content type="html"><![CDATA[4:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JISOKURY_a Plumber]]></title>
-        <id>https://tv.naver.com/v/28462200</id>
-        <link href="https://tv.naver.com/v/28462200"/>
-        <updated>2022-09-23T20:14:33.830Z</updated>
-        <content type="html"><![CDATA[4:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강승원_처음]]></title>
-        <id>https://tv.naver.com/v/28336802</id>
-        <link href="https://tv.naver.com/v/28336802"/>
-        <updated>2022-09-23T20:14:33.832Z</updated>
-        <content type="html"><![CDATA[3:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강승원_말하지 않아도 알아요]]></title>
-        <id>https://tv.naver.com/v/28336767</id>
-        <link href="https://tv.naver.com/v/28336767"/>
-        <updated>2022-09-23T20:14:33.834Z</updated>
         <content type="html"><![CDATA[4:07]]></content>
     </entry>
 </feed>
