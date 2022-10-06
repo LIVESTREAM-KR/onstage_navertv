@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage_navertv/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-06T00:56:38.808Z</updated>
+    <updated>2022-10-06T03:04:22.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[남유선_New Morning (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/29683432</id>
+        <link href="https://tv.naver.com/v/29683432"/>
+        <updated>2022-10-06T03:04:21.863Z</updated>
+        <content type="html"><![CDATA[3:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남유선_Moon (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/29683421</id>
+        <link href="https://tv.naver.com/v/29683421"/>
+        <updated>2022-10-06T03:04:21.863Z</updated>
+        <content type="html"><![CDATA[4:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남유선_Corinthians 1614 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/29683406</id>
+        <link href="https://tv.naver.com/v/29683406"/>
+        <updated>2022-10-06T03:04:21.863Z</updated>
+        <content type="html"><![CDATA[5:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[야마가타 트윅스터_멋진사람 (네이버 TV ─ 온스테이지)]]></title>
         <id>https://tv.naver.com/v/29527815</id>
@@ -192,26 +213,5 @@
         <link href="https://tv.naver.com/v/28590472"/>
         <updated>2022-09-23T20:14:33.817Z</updated>
         <content type="html"><![CDATA[4:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moon Kyoo_Dawn (Feat. hoo dee) (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/28590369</id>
-        <link href="https://tv.naver.com/v/28590369"/>
-        <updated>2022-09-23T20:14:33.820Z</updated>
-        <content type="html"><![CDATA[5:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JISOKURY_Take On (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/28462301</id>
-        <link href="https://tv.naver.com/v/28462301"/>
-        <updated>2022-09-23T20:14:33.825Z</updated>
-        <content type="html"><![CDATA[3:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JISOKURY_Light Chaser (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/28462272</id>
-        <link href="https://tv.naver.com/v/28462272"/>
-        <updated>2022-09-23T20:14:33.827Z</updated>
-        <content type="html"><![CDATA[4:07]]></content>
     </entry>
 </feed>
