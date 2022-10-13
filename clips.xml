@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2022-10-13T03:36:37.351Z</updated>
+    <updated>2022-10-13T05:18:21.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Blase (블라세)_Man's Talk]]></title>
+        <id>https://tv.naver.com/v/29863702</id>
+        <link href="https://tv.naver.com/v/29863702"/>
+        <updated>2022-10-13T05:18:21.144Z</updated>
+        <content type="html"><![CDATA[1:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blase (블라세)_Space Station]]></title>
+        <id>https://tv.naver.com/v/29863682</id>
+        <link href="https://tv.naver.com/v/29863682"/>
+        <updated>2022-10-13T05:18:21.147Z</updated>
+        <content type="html"><![CDATA[3:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blase (블라세)_BIG MAC (feat. Chillin Homie)]]></title>
+        <id>https://tv.naver.com/v/29863669</id>
+        <link href="https://tv.naver.com/v/29863669"/>
+        <updated>2022-10-13T05:18:21.148Z</updated>
+        <content type="html"><![CDATA[2:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남유선_New Morning]]></title>
         <id>https://tv.naver.com/v/29683432</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/28708643"/>
         <updated>2022-09-23T20:14:33.810Z</updated>
         <content type="html"><![CDATA[3:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['NAVER ONSTAGE 로컬 라이브 보드' 부산 공연 TEASER]]></title>
-        <id>https://tv.naver.com/v/28663240</id>
-        <link href="https://tv.naver.com/v/28663240"/>
-        <updated>2022-09-23T20:14:33.812Z</updated>
-        <content type="html"><![CDATA[0:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moon Kyoo_Ten Birds]]></title>
-        <id>https://tv.naver.com/v/28590528</id>
-        <link href="https://tv.naver.com/v/28590528"/>
-        <updated>2022-09-23T20:14:33.815Z</updated>
-        <content type="html"><![CDATA[4:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moon Kyoo_TAEYEON - INVU (Moon Kyoo Remix)]]></title>
-        <id>https://tv.naver.com/v/28590472</id>
-        <link href="https://tv.naver.com/v/28590472"/>
-        <updated>2022-09-23T20:14:33.817Z</updated>
-        <content type="html"><![CDATA[4:22]]></content>
     </entry>
 </feed>
