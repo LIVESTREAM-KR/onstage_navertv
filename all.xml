@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage_navertv/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-27T03:05:47.879Z</updated>
+    <updated>2022-10-27T04:39:08.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[해파_모르겠어요 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/30273341</id>
+        <link href="https://tv.naver.com/v/30273341"/>
+        <updated>2022-10-27T04:39:07.633Z</updated>
+        <content type="html"><![CDATA[3:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해파_커다란 망치 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/30273332</id>
+        <link href="https://tv.naver.com/v/30273332"/>
+        <updated>2022-10-27T04:39:07.633Z</updated>
+        <content type="html"><![CDATA[3:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해파_I’m Finally a Ghost (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/30273323</id>
+        <link href="https://tv.naver.com/v/30273323"/>
+        <updated>2022-10-27T04:39:07.633Z</updated>
+        <content type="html"><![CDATA[3:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김푸름_꿈이었기에 더 슬펐던 꿈 (feat. 채욱진 of basecamp) (네이버 TV ─ 온스테이지)]]></title>
         <id>https://tv.naver.com/v/30078195</id>
@@ -192,26 +213,5 @@
         <link href="https://tv.naver.com/v/28901834"/>
         <updated>2022-09-23T20:14:33.789Z</updated>
         <content type="html"><![CDATA[5:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[unofficialboyy(with. gamma)_bluecheck (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/28901735</id>
-        <link href="https://tv.naver.com/v/28901735"/>
-        <updated>2022-09-23T20:14:33.795Z</updated>
-        <content type="html"><![CDATA[3:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Richiman & Groove Nice_Richiman Blues (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/28770572</id>
-        <link href="https://tv.naver.com/v/28770572"/>
-        <updated>2022-09-23T20:14:33.795Z</updated>
-        <content type="html"><![CDATA[5:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Richiman & Groove Nice_Groove Nice (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/28770452</id>
-        <link href="https://tv.naver.com/v/28770452"/>
-        <updated>2022-09-23T20:14:33.803Z</updated>
-        <content type="html"><![CDATA[3:57]]></content>
     </entry>
 </feed>
