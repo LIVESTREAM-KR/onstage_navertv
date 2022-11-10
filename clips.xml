@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2022-11-10T07:09:57.963Z</updated>
+    <updated>2022-11-10T08:13:18.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[온스테이지 원테이크 콘서트] #1 강아솔_아무말도 더 하지않고, 섬, 아름다웠지 우리 외]]></title>
+        <id>https://tv.naver.com/v/30615946</id>
+        <link href="https://tv.naver.com/v/30615946"/>
+        <updated>2022-11-10T08:13:17.319Z</updated>
+        <content type="html"><![CDATA[19:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해파_모르겠어요]]></title>
         <id>https://tv.naver.com/v/30273341</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/28901868"/>
         <updated>2022-11-05T08:11:40.657Z</updated>
         <content type="html"><![CDATA[3:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[unofficialboyy_새끼(Feat.gamma)]]></title>
-        <id>https://tv.naver.com/v/28901834</id>
-        <link href="https://tv.naver.com/v/28901834"/>
-        <updated>2022-11-05T08:11:40.658Z</updated>
-        <content type="html"><![CDATA[5:15]]></content>
     </entry>
 </feed>
