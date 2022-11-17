@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2022-11-17T00:43:48.034Z</updated>
+    <updated>2022-11-17T02:42:20.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최백호_낭만에 대하여]]></title>
+        <id>https://tv.naver.com/v/30819922</id>
+        <link href="https://tv.naver.com/v/30819922"/>
+        <updated>2022-11-17T02:42:19.926Z</updated>
+        <content type="html"><![CDATA[3:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최백호_내 마음 갈 곳을 잃어]]></title>
+        <id>https://tv.naver.com/v/30819880</id>
+        <link href="https://tv.naver.com/v/30819880"/>
+        <updated>2022-11-17T02:42:19.927Z</updated>
+        <content type="html"><![CDATA[3:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최백호_책]]></title>
+        <id>https://tv.naver.com/v/30819865</id>
+        <link href="https://tv.naver.com/v/30819865"/>
+        <updated>2022-11-17T02:42:19.927Z</updated>
+        <content type="html"><![CDATA[3:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[온스테이지 원테이크 콘서트] #1 강아솔_아무말도 더 하지않고, 섬, 아름다웠지 우리 외]]></title>
         <id>https://tv.naver.com/v/30615946</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/29067483"/>
         <updated>2022-11-05T08:11:40.654Z</updated>
         <content type="html"><![CDATA[4:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김새녘_FLOOR FLOWER]]></title>
-        <id>https://tv.naver.com/v/29067184</id>
-        <link href="https://tv.naver.com/v/29067184"/>
-        <updated>2022-11-05T08:11:40.655Z</updated>
-        <content type="html"><![CDATA[4:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김새녘_알람]]></title>
-        <id>https://tv.naver.com/v/29066881</id>
-        <link href="https://tv.naver.com/v/29066881"/>
-        <updated>2022-11-05T08:11:40.656Z</updated>
-        <content type="html"><![CDATA[6:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[unofficialboyy_그물,덫,발사대기,포획]]></title>
-        <id>https://tv.naver.com/v/28901868</id>
-        <link href="https://tv.naver.com/v/28901868"/>
-        <updated>2022-11-05T08:11:40.657Z</updated>
-        <content type="html"><![CDATA[3:40]]></content>
     </entry>
 </feed>
