@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage_navertv/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-24T00:45:11.899Z</updated>
+    <updated>2022-11-24T02:23:47.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[온스테이지 원테이크 콘서트] #2 김오키_코타르 증후군, 눈부시게 빛나는 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/31013807</id>
+        <link href="https://tv.naver.com/v/31013807"/>
+        <updated>2022-11-24T02:23:47.337Z</updated>
+        <content type="html"><![CDATA[22:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최백호_낭만에 대하여 (네이버 TV ─ 온스테이지)]]></title>
         <id>https://tv.naver.com/v/30819922</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/29186997"/>
         <updated>2022-09-23T20:14:33.766Z</updated>
         <content type="html"><![CDATA[44:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김새녘_싫증 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/29067483</id>
-        <link href="https://tv.naver.com/v/29067483"/>
-        <updated>2022-09-23T20:14:33.767Z</updated>
-        <content type="html"><![CDATA[4:31]]></content>
     </entry>
 </feed>
