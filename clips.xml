@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2022-12-01T07:09:32.625Z</updated>
+    <updated>2022-12-01T08:12:26.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 Christmas ONSTAGE – 강지원]]></title>
+        <id>https://tv.naver.com/v/31246205</id>
+        <link href="https://tv.naver.com/v/31246205"/>
+        <updated>2022-12-01T08:12:25.548Z</updated>
+        <content type="html"><![CDATA[4:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Christmas ONSTAGE – 윤석철트리오]]></title>
+        <id>https://tv.naver.com/v/31246165</id>
+        <link href="https://tv.naver.com/v/31246165"/>
+        <updated>2022-12-01T08:12:25.548Z</updated>
+        <content type="html"><![CDATA[5:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Christmas ONSTAGE – 까데호]]></title>
+        <id>https://tv.naver.com/v/31246102</id>
+        <link href="https://tv.naver.com/v/31246102"/>
+        <updated>2022-12-01T08:12:25.548Z</updated>
+        <content type="html"><![CDATA[3:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Christmas ONSTAGE – Colde]]></title>
+        <id>https://tv.naver.com/v/31245983</id>
+        <link href="https://tv.naver.com/v/31245983"/>
+        <updated>2022-12-01T08:12:25.557Z</updated>
+        <content type="html"><![CDATA[3:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Christmas ONSTAGE – 선우정아]]></title>
+        <id>https://tv.naver.com/v/31245902</id>
+        <link href="https://tv.naver.com/v/31245902"/>
+        <updated>2022-12-01T08:12:25.557Z</updated>
+        <content type="html"><![CDATA[4:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Christmas ONSTAGE – pH-1,SUMIN]]></title>
+        <id>https://tv.naver.com/v/31245791</id>
+        <link href="https://tv.naver.com/v/31245791"/>
+        <updated>2022-12-01T08:12:25.557Z</updated>
+        <content type="html"><![CDATA[2:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Christmas ONSTAGE – 허윤진]]></title>
+        <id>https://tv.naver.com/v/31245589</id>
+        <link href="https://tv.naver.com/v/31245589"/>
+        <updated>2022-12-01T08:12:25.557Z</updated>
+        <content type="html"><![CDATA[3:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Christmas ONSTAGE - 이수현]]></title>
+        <id>https://tv.naver.com/v/31245350</id>
+        <link href="https://tv.naver.com/v/31245350"/>
+        <updated>2022-12-01T08:12:25.559Z</updated>
+        <content type="html"><![CDATA[2:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tuesday Beach Club_O!]]></title>
         <id>https://tv.naver.com/v/31218779</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/29527748"/>
         <updated>2022-11-05T08:11:40.633Z</updated>
         <content type="html"><![CDATA[5:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야마가타 트윅스터_이단옆차기하다]]></title>
-        <id>https://tv.naver.com/v/29527725</id>
-        <link href="https://tv.naver.com/v/29527725"/>
-        <updated>2022-11-05T08:11:40.638Z</updated>
-        <content type="html"><![CDATA[4:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문없는집_시간이 흐르지 않는 친구에게]]></title>
-        <id>https://tv.naver.com/v/29368590</id>
-        <link href="https://tv.naver.com/v/29368590"/>
-        <updated>2022-11-05T08:11:40.643Z</updated>
-        <content type="html"><![CDATA[4:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문없는집_방학을 기다리던 날들]]></title>
-        <id>https://tv.naver.com/v/29368233</id>
-        <link href="https://tv.naver.com/v/29368233"/>
-        <updated>2022-11-05T08:11:40.643Z</updated>
-        <content type="html"><![CDATA[3:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문없는집_Colors of]]></title>
-        <id>https://tv.naver.com/v/29368230</id>
-        <link href="https://tv.naver.com/v/29368230"/>
-        <updated>2022-11-05T08:11:40.644Z</updated>
-        <content type="html"><![CDATA[3:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로스(Los)_Intro + LA 2 Korea]]></title>
-        <id>https://tv.naver.com/v/29192273</id>
-        <link href="https://tv.naver.com/v/29192273"/>
-        <updated>2022-11-05T08:11:40.646Z</updated>
-        <content type="html"><![CDATA[2:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로스(Los)_BIG MAD + Blue Lemonade]]></title>
-        <id>https://tv.naver.com/v/29192269</id>
-        <link href="https://tv.naver.com/v/29192269"/>
-        <updated>2022-11-05T08:11:40.646Z</updated>
-        <content type="html"><![CDATA[3:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로스(Los)_Make It Back Home]]></title>
-        <id>https://tv.naver.com/v/29192010</id>
-        <link href="https://tv.naver.com/v/29192010"/>
-        <updated>2022-11-05T08:11:40.647Z</updated>
-        <content type="html"><![CDATA[2:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[네이버 온스테이지 로컬 라이브 보드] 장풍파랑 051 - 더 튜나스]]></title>
-        <id>https://tv.naver.com/v/29187035</id>
-        <link href="https://tv.naver.com/v/29187035"/>
-        <updated>2022-11-05T08:11:40.651Z</updated>
-        <content type="html"><![CDATA[25:32]]></content>
     </entry>
 </feed>
