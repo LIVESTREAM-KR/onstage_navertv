@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2022-12-01T10:09:24.271Z</updated>
+    <updated>2022-12-01T11:07:36.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[2022 크리스마스] 온스테이지x바이브 캐럴 리메이크 프로젝트 공개]]></title>
+        <id>https://tv.naver.com/v/31256436</id>
+        <link href="https://tv.naver.com/v/31256436"/>
+        <updated>2022-12-01T11:07:35.554Z</updated>
+        <content type="html"><![CDATA[0:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 Christmas ONSTAGE – 강지원]]></title>
         <id>https://tv.naver.com/v/31246205</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29527815"/>
         <updated>2022-11-05T08:11:40.633Z</updated>
         <content type="html"><![CDATA[7:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야마가타 트윅스터_후쿠시마러버]]></title>
-        <id>https://tv.naver.com/v/29527748</id>
-        <link href="https://tv.naver.com/v/29527748"/>
-        <updated>2022-11-05T08:11:40.633Z</updated>
-        <content type="html"><![CDATA[5:50]]></content>
     </entry>
 </feed>
