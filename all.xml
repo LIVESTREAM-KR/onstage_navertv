@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage_navertv/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-01T00:45:42.113Z</updated>
+    <updated>2022-12-01T02:42:48.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[튜즈데이 비치 클럽_LOBSTER KING (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/31218773</id>
+        <link href="https://tv.naver.com/v/31218773"/>
+        <updated>2022-12-01T02:42:48.290Z</updated>
+        <content type="html"><![CDATA[3:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[튜즈데이 비치 클럽_Sunset (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/31218739</id>
+        <link href="https://tv.naver.com/v/31218739"/>
+        <updated>2022-12-01T02:42:48.291Z</updated>
+        <content type="html"><![CDATA[3:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[튜즈데이 비치 클럽_O! (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/31218779</id>
+        <link href="https://tv.naver.com/v/31218779"/>
+        <updated>2022-12-01T02:42:48.291Z</updated>
+        <content type="html"><![CDATA[3:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[온스테이지 원테이크 콘서트] #2 김오키_코타르 증후군, 눈부시게 빛나는 (네이버 TV ─ 온스테이지)]]></title>
         <id>https://tv.naver.com/v/31013807</id>
@@ -192,26 +213,5 @@
         <link href="https://tv.naver.com/v/29187035"/>
         <updated>2022-09-23T20:14:33.752Z</updated>
         <content type="html"><![CDATA[25:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[네이버 온스테이지 로컬 라이브 보드] 장풍파랑 051 - 더 바스타즈 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/29186999</id>
-        <link href="https://tv.naver.com/v/29186999"/>
-        <updated>2022-09-23T20:14:33.753Z</updated>
-        <content type="html"><![CDATA[28:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[네이버 온스테이지 로컬 라이브 보드] 장풍파랑 051 - 하퍼스 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/29186998</id>
-        <link href="https://tv.naver.com/v/29186998"/>
-        <updated>2022-09-23T20:14:33.759Z</updated>
-        <content type="html"><![CDATA[23:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[네이버 온스테이지 로컬 라이브 보드] 장풍파랑 051 - 세이수미 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/29186997</id>
-        <link href="https://tv.naver.com/v/29186997"/>
-        <updated>2022-09-23T20:14:33.766Z</updated>
-        <content type="html"><![CDATA[44:17]]></content>
     </entry>
 </feed>
