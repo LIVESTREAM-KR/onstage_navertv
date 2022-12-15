@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2022-12-15T00:41:06.210Z</updated>
+    <updated>2022-12-15T02:17:53.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선과영_슬픔의 자리]]></title>
+        <id>https://tv.naver.com/v/31608365</id>
+        <link href="https://tv.naver.com/v/31608365"/>
+        <updated>2022-12-15T02:17:52.775Z</updated>
+        <content type="html"><![CDATA[5:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선과영_밤과낮]]></title>
+        <id>https://tv.naver.com/v/31608299</id>
+        <link href="https://tv.naver.com/v/31608299"/>
+        <updated>2022-12-15T02:17:52.781Z</updated>
+        <content type="html"><![CDATA[5:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선과영_해가 지고 바람 불면]]></title>
+        <id>https://tv.naver.com/v/31608244</id>
+        <link href="https://tv.naver.com/v/31608244"/>
+        <updated>2022-12-15T02:17:52.782Z</updated>
+        <content type="html"><![CDATA[5:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 온스테이지 로컬 라이브 보드_무등호락 062 Teaser]]></title>
         <id>https://tv.naver.com/v/31477316</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/30061537"/>
         <updated>2022-11-05T08:11:40.629Z</updated>
         <content type="html"><![CDATA[5:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김푸름_검은색 하얀색]]></title>
-        <id>https://tv.naver.com/v/30061521</id>
-        <link href="https://tv.naver.com/v/30061521"/>
-        <updated>2022-11-05T08:11:40.629Z</updated>
-        <content type="html"><![CDATA[4:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blase (블라세)_Man's Talk]]></title>
-        <id>https://tv.naver.com/v/29863702</id>
-        <link href="https://tv.naver.com/v/29863702"/>
-        <updated>2022-11-05T08:11:40.632Z</updated>
-        <content type="html"><![CDATA[1:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blase (블라세)_Space Station]]></title>
-        <id>https://tv.naver.com/v/29863682</id>
-        <link href="https://tv.naver.com/v/29863682"/>
-        <updated>2022-11-05T08:11:40.632Z</updated>
-        <content type="html"><![CDATA[3:14]]></content>
     </entry>
 </feed>
