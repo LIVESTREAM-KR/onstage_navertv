@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2022-12-21T10:08:41.424Z</updated>
+    <updated>2022-12-21T11:07:05.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[온스테이지 원테이크 콘서트] #3 하헌진_오 나의 야옹아 넌 날 너무 슬프게 해]]></title>
+        <id>https://tv.naver.com/v/31792218</id>
+        <link href="https://tv.naver.com/v/31792218"/>
+        <updated>2022-12-21T11:07:05.320Z</updated>
+        <content type="html"><![CDATA[26:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[온스테이지 로컬 라이브 보드] 대구 - ORIGIN ALIVE 053 Teaser]]></title>
         <id>https://tv.naver.com/v/31748208</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30273323"/>
         <updated>2022-11-05T08:11:40.629Z</updated>
         <content type="html"><![CDATA[3:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김푸름_꿈이었기에 더 슬펐던 꿈 (feat. 채욱진 of basecamp)]]></title>
-        <id>https://tv.naver.com/v/30078195</id>
-        <link href="https://tv.naver.com/v/30078195"/>
-        <updated>2022-11-05T08:11:40.629Z</updated>
-        <content type="html"><![CDATA[3:24]]></content>
     </entry>
 </feed>
