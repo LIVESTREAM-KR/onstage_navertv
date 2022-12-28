@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage_navertv/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-28T06:10:13.071Z</updated>
+    <updated>2022-12-28T07:07:22.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[온스테이지 로컬 라이브 보드] 인천 - RE:BOOT 032 Teaser (네이버 TV ─ 온스테이지)]]></title>
@@ -110,13 +110,6 @@
         <content type="html"><![CDATA[3:10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 Christmas ONSTAGE – Colde (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/31245983</id>
-        <link href="https://tv.naver.com/v/31245983"/>
-        <updated>2022-12-01T08:12:25.557Z</updated>
-        <content type="html"><![CDATA[3:12]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022 Christmas ONSTAGE – 선우정아 (네이버 TV ─ 온스테이지)]]></title>
         <id>https://tv.naver.com/v/31245902</id>
         <link href="https://tv.naver.com/v/31245902"/>
@@ -213,5 +206,12 @@
         <link href="https://tv.naver.com/v/30273332"/>
         <updated>2022-10-27T04:39:07.633Z</updated>
         <content type="html"><![CDATA[3:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해파_I’m Finally a Ghost (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/30273323</id>
+        <link href="https://tv.naver.com/v/30273323"/>
+        <updated>2022-12-28T07:07:21.857Z</updated>
+        <content type="html"><![CDATA[3:02]]></content>
     </entry>
 </feed>
