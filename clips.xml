@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2022-12-29T02:07:59.071Z</updated>
+    <updated>2022-12-29T03:09:05.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://tv.naver.com/v/31954309"/>
         <updated>2022-12-29T02:07:58.391Z</updated>
         <content type="html"><![CDATA[4:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Livigesh_Fighting My Shadow (feat. Jeongjeon)]]></title>
+        <id>https://tv.naver.com/v/31954295</id>
+        <link href="https://tv.naver.com/v/31954295"/>
+        <updated>2022-12-29T03:09:05.231Z</updated>
+        <content type="html"><![CDATA[4:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Livigesh_Mountain Air (feat. Gillee)]]></title>
+        <id>https://tv.naver.com/v/31954281</id>
+        <link href="https://tv.naver.com/v/31954281"/>
+        <updated>2022-12-29T03:09:05.231Z</updated>
+        <content type="html"><![CDATA[4:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[온스테이지 로컬 라이브 보드] 인천 - RE:BOOT 032 Teaser]]></title>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/30615946"/>
         <updated>2022-11-10T08:13:17.319Z</updated>
         <content type="html"><![CDATA[19:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해파_모르겠어요]]></title>
-        <id>https://tv.naver.com/v/30273341</id>
-        <link href="https://tv.naver.com/v/30273341"/>
-        <updated>2022-11-05T08:11:40.628Z</updated>
-        <content type="html"><![CDATA[3:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해파_커다란 망치]]></title>
-        <id>https://tv.naver.com/v/30273332</id>
-        <link href="https://tv.naver.com/v/30273332"/>
-        <updated>2022-11-05T08:11:40.629Z</updated>
-        <content type="html"><![CDATA[3:43]]></content>
     </entry>
 </feed>
