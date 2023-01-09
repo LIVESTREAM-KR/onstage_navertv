@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-01-09T05:07:53.902Z</updated>
+    <updated>2023-01-09T06:10:37.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[온스테이지 로컬 라이브 보드 In 부산] 하퍼스_스근하게]]></title>
+        <id>https://tv.naver.com/v/32235698</id>
+        <link href="https://tv.naver.com/v/32235698"/>
+        <updated>2023-01-09T06:10:37.149Z</updated>
+        <content type="html"><![CDATA[2:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hookuo(후쿠오)_New thing (Feat. Jue)]]></title>
         <id>https://tv.naver.com/v/32120433</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31013807"/>
         <updated>2022-11-24T02:23:47.337Z</updated>
         <content type="html"><![CDATA[22:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최백호_낭만에 대하여]]></title>
-        <id>https://tv.naver.com/v/30819922</id>
-        <link href="https://tv.naver.com/v/30819922"/>
-        <updated>2022-11-17T02:42:19.926Z</updated>
-        <content type="html"><![CDATA[3:31]]></content>
     </entry>
 </feed>
