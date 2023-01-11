@@ -2,8 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage_navertv/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-11T10:11:08.521Z</updated>
+    <updated>2023-01-11T11:08:03.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[우물안 개구리_연차 좀 씁시다 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/32303044</id>
+        <link href="https://tv.naver.com/v/32303044"/>
+        <updated>2023-01-11T11:08:03.103Z</updated>
+        <content type="html"><![CDATA[3:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hon'z_별(Star) (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/32303037</id>
+        <link href="https://tv.naver.com/v/32303037"/>
+        <updated>2023-01-11T11:08:03.106Z</updated>
+        <content type="html"><![CDATA[3:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하퍼스_스근하게 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/32303030</id>
+        <link href="https://tv.naver.com/v/32303030"/>
+        <updated>2023-01-11T11:08:03.107Z</updated>
+        <content type="html"><![CDATA[2:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BADLAMB_Love, Lies, Bleeding (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/32303028</id>
+        <link href="https://tv.naver.com/v/32303028"/>
+        <updated>2023-01-11T11:08:03.108Z</updated>
+        <content type="html"><![CDATA[6:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hammering_Libera Me (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/32303026</id>
+        <link href="https://tv.naver.com/v/32303026"/>
+        <updated>2023-01-11T11:08:03.109Z</updated>
+        <content type="html"><![CDATA[7:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TheTunas_Luna, Dance Floor_Final (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/32303023</id>
+        <link href="https://tv.naver.com/v/32303023"/>
+        <updated>2023-01-11T11:08:03.113Z</updated>
+        <content type="html"><![CDATA[4:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Vastards_Take me out, tonight (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/32303019</id>
+        <link href="https://tv.naver.com/v/32303019"/>
+        <updated>2023-01-11T11:08:03.116Z</updated>
+        <content type="html"><![CDATA[3:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이글루(igloo)_우리는 빛으로 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/32303015</id>
+        <link href="https://tv.naver.com/v/32303015"/>
+        <updated>2023-01-11T11:08:03.131Z</updated>
+        <content type="html"><![CDATA[3:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼플웨일 _ 마음은 왜 움직이는 걸까? (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/32303014</id>
+        <link href="https://tv.naver.com/v/32303014"/>
+        <updated>2023-01-11T11:08:03.132Z</updated>
+        <content type="html"><![CDATA[5:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[온스테이지 로컬 라이브 보드 In 부산] 하퍼스_스근하게 (네이버 TV ─ 온스테이지)]]></title>
         <id>https://tv.naver.com/v/32235698</id>
@@ -150,68 +213,5 @@
         <link href="https://tv.naver.com/v/31246165"/>
         <updated>2022-12-01T08:12:25.548Z</updated>
         <content type="html"><![CDATA[5:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 Christmas ONSTAGE – 까데호 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/31246102</id>
-        <link href="https://tv.naver.com/v/31246102"/>
-        <updated>2022-12-01T08:12:25.548Z</updated>
-        <content type="html"><![CDATA[3:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 Christmas ONSTAGE – 선우정아 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/31245902</id>
-        <link href="https://tv.naver.com/v/31245902"/>
-        <updated>2022-12-01T08:12:25.557Z</updated>
-        <content type="html"><![CDATA[4:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 Christmas ONSTAGE – pH-1,SUMIN (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/31245791</id>
-        <link href="https://tv.naver.com/v/31245791"/>
-        <updated>2022-12-01T08:12:25.557Z</updated>
-        <content type="html"><![CDATA[2:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 Christmas ONSTAGE – 허윤진 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/31245589</id>
-        <link href="https://tv.naver.com/v/31245589"/>
-        <updated>2022-12-01T08:12:25.557Z</updated>
-        <content type="html"><![CDATA[3:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 Christmas ONSTAGE - 이수현 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/31245350</id>
-        <link href="https://tv.naver.com/v/31245350"/>
-        <updated>2022-12-01T08:12:25.559Z</updated>
-        <content type="html"><![CDATA[2:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tuesday Beach Club_O! (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/31218779</id>
-        <link href="https://tv.naver.com/v/31218779"/>
-        <updated>2022-12-01T02:42:48.291Z</updated>
-        <content type="html"><![CDATA[3:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tuesday Beach Club_LOBSTER KING (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/31218773</id>
-        <link href="https://tv.naver.com/v/31218773"/>
-        <updated>2022-12-01T02:42:48.290Z</updated>
-        <content type="html"><![CDATA[3:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tuesday Beach Club_Sunset (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/31218739</id>
-        <link href="https://tv.naver.com/v/31218739"/>
-        <updated>2022-12-01T02:42:48.291Z</updated>
-        <content type="html"><![CDATA[3:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[온스테이지 원테이크 콘서트] #2 김오키_코타르 증후군, 눈부시게 빛나는 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/31013807</id>
-        <link href="https://tv.naver.com/v/31013807"/>
-        <updated>2022-11-24T02:23:47.337Z</updated>
-        <content type="html"><![CDATA[22:39]]></content>
     </entry>
 </feed>
