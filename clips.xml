@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-03-02T00:45:31.814Z</updated>
+    <updated>2023-03-02T02:23:26.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[oceanfromtheblue_슈퍼마리오 (Super Mario)]]></title>
+        <id>https://tv.naver.com/v/33532909</id>
+        <link href="https://tv.naver.com/v/33532909"/>
+        <updated>2023-03-02T02:23:25.289Z</updated>
+        <content type="html"><![CDATA[4:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[oceanfromtheblue_향 (Scent)]]></title>
+        <id>https://tv.naver.com/v/33532164</id>
+        <link href="https://tv.naver.com/v/33532164"/>
+        <updated>2023-03-02T02:23:25.291Z</updated>
+        <content type="html"><![CDATA[3:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[oceanfromtheblue_잠자리 (Come Back Home)]]></title>
+        <id>https://tv.naver.com/v/33532153</id>
+        <link href="https://tv.naver.com/v/33532153"/>
+        <updated>2023-03-02T02:23:25.299Z</updated>
+        <content type="html"><![CDATA[3:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매미(MEMI)_Hate U]]></title>
         <id>https://tv.naver.com/v/33359476</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/32303014"/>
         <updated>2023-01-11T11:08:03.132Z</updated>
         <content type="html"><![CDATA[5:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숨비_아빠]]></title>
-        <id>https://tv.naver.com/v/32260831</id>
-        <link href="https://tv.naver.com/v/32260831"/>
-        <updated>2023-01-12T02:11:38.696Z</updated>
-        <content type="html"><![CDATA[3:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숨비_WATER]]></title>
-        <id>https://tv.naver.com/v/32260828</id>
-        <link href="https://tv.naver.com/v/32260828"/>
-        <updated>2023-01-12T02:11:38.697Z</updated>
-        <content type="html"><![CDATA[4:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숨비_사랑은 영원하다]]></title>
-        <id>https://tv.naver.com/v/32260464</id>
-        <link href="https://tv.naver.com/v/32260464"/>
-        <updated>2023-01-12T02:11:38.698Z</updated>
-        <content type="html"><![CDATA[3:16]]></content>
     </entry>
 </feed>
