@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-06-08T00:43:34.599Z</updated>
+    <updated>2023-06-08T02:22:44.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[So!YoON!_Smoke Sprite (feat. RM of BTS)]]></title>
+        <id>https://tv.naver.com/v/36738426</id>
+        <link href="https://tv.naver.com/v/36738426"/>
+        <updated>2023-06-08T02:22:43.935Z</updated>
+        <content type="html"><![CDATA[4:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So!YoON!_Gave you all my love (feat. jibin of Y2K92)]]></title>
+        <id>https://tv.naver.com/v/36738365</id>
+        <link href="https://tv.naver.com/v/36738365"/>
+        <updated>2023-06-08T02:22:43.942Z</updated>
+        <content type="html"><![CDATA[5:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So!YoON!_Till the sun goes up]]></title>
+        <id>https://tv.naver.com/v/36738326</id>
+        <link href="https://tv.naver.com/v/36738326"/>
+        <updated>2023-06-08T02:22:43.945Z</updated>
+        <content type="html"><![CDATA[3:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GongGongGoo009_헤쳐모여]]></title>
         <id>https://tv.naver.com/v/34467517</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/32795357"/>
         <updated>2023-02-02T04:10:02.568Z</updated>
         <content type="html"><![CDATA[5:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한로로_정류장]]></title>
-        <id>https://tv.naver.com/v/32629970</id>
-        <link href="https://tv.naver.com/v/32629970"/>
-        <updated>2023-01-26T03:09:37.125Z</updated>
-        <content type="html"><![CDATA[4:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한로로_거울]]></title>
-        <id>https://tv.naver.com/v/32629945</id>
-        <link href="https://tv.naver.com/v/32629945"/>
-        <updated>2023-01-26T03:09:37.132Z</updated>
-        <content type="html"><![CDATA[4:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한로로_입춘]]></title>
-        <id>https://tv.naver.com/v/32629937</id>
-        <link href="https://tv.naver.com/v/32629937"/>
-        <updated>2023-01-26T03:09:37.132Z</updated>
-        <content type="html"><![CDATA[4:05]]></content>
     </entry>
 </feed>
