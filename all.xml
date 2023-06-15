@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage_navertv/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-15T00:41:59.191Z</updated>
+    <updated>2023-06-15T02:08:45.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[장명선_Nature is you (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/36983537</id>
+        <link href="https://tv.naver.com/v/36983537"/>
+        <updated>2023-06-15T02:08:44.938Z</updated>
+        <content type="html"><![CDATA[2:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장명선_틈 + 일기장 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/36983418</id>
+        <link href="https://tv.naver.com/v/36983418"/>
+        <updated>2023-06-15T02:08:44.956Z</updated>
+        <content type="html"><![CDATA[6:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장명선_숲 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/36983234</id>
+        <link href="https://tv.naver.com/v/36983234"/>
+        <updated>2023-06-15T02:08:44.957Z</updated>
+        <content type="html"><![CDATA[4:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[So!YoON!_Smoke Sprite (feat. RM of BTS) (네이버 TV ─ 온스테이지)]]></title>
         <id>https://tv.naver.com/v/36738426</id>
@@ -192,26 +213,5 @@
         <link href="https://tv.naver.com/v/32920046"/>
         <updated>2023-02-09T04:10:33.824Z</updated>
         <content type="html"><![CDATA[3:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마리아 킴_Bitter with the Sweet (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/32795363</id>
-        <link href="https://tv.naver.com/v/32795363"/>
-        <updated>2023-02-02T04:10:02.568Z</updated>
-        <content type="html"><![CDATA[3:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마리아킴_Comes Love (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/32795361</id>
-        <link href="https://tv.naver.com/v/32795361"/>
-        <updated>2023-02-02T04:10:02.568Z</updated>
-        <content type="html"><![CDATA[6:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마리아킴_Some Cats Know (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/32795357</id>
-        <link href="https://tv.naver.com/v/32795357"/>
-        <updated>2023-02-02T04:10:02.568Z</updated>
-        <content type="html"><![CDATA[5:30]]></content>
     </entry>
 </feed>
