@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage_navertv/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-22T00:49:09.627Z</updated>
+    <updated>2023-06-22T02:14:55.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[봉제인간_GAEKKUM (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/37231069</id>
+        <link href="https://tv.naver.com/v/37231069"/>
+        <updated>2023-06-22T02:14:54.419Z</updated>
+        <content type="html"><![CDATA[4:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봉제인간_GOOD (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/37231041</id>
+        <link href="https://tv.naver.com/v/37231041"/>
+        <updated>2023-06-22T02:14:54.419Z</updated>
+        <content type="html"><![CDATA[4:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봉제인간_너만 없으면 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/37230999</id>
+        <link href="https://tv.naver.com/v/37230999"/>
+        <updated>2023-06-22T02:14:54.424Z</updated>
+        <content type="html"><![CDATA[3:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장명선_Nature is you (네이버 TV ─ 온스테이지)]]></title>
         <id>https://tv.naver.com/v/36983537</id>
@@ -192,26 +213,5 @@
         <link href="https://tv.naver.com/v/33123945"/>
         <updated>2023-02-16T03:13:18.226Z</updated>
         <content type="html"><![CDATA[3:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HYPNOSIS THERAPY_MEDUSA (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/32920169</id>
-        <link href="https://tv.naver.com/v/32920169"/>
-        <updated>2023-02-09T04:10:33.816Z</updated>
-        <content type="html"><![CDATA[3:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HYPNOSIS THERAPY_+82 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/32920066</id>
-        <link href="https://tv.naver.com/v/32920066"/>
-        <updated>2023-02-09T04:10:33.819Z</updated>
-        <content type="html"><![CDATA[2:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HYPNOSIS THERAPY_Daze (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/32920046</id>
-        <link href="https://tv.naver.com/v/32920046"/>
-        <updated>2023-02-09T04:10:33.824Z</updated>
-        <content type="html"><![CDATA[3:18]]></content>
     </entry>
 </feed>
