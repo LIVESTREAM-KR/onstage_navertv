@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage_navertv/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-27T00:46:48.608Z</updated>
+    <updated>2023-06-27T02:26:19.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[FORSTAGE] PLAY2_컬렉터vs.컬렉터 (DJ소울스케이프vs.하세가와요헤이) (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/37382060</id>
+        <link href="https://tv.naver.com/v/37382060"/>
+        <updated>2023-06-27T02:26:18.696Z</updated>
+        <content type="html"><![CDATA[5:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[FORSTAGE] PLAY1_레코드숍vs.레코드숍 (데이토나레코즈vs.김밥레코즈) (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/37381925</id>
+        <link href="https://tv.naver.com/v/37381925"/>
+        <updated>2023-06-27T02:26:18.699Z</updated>
+        <content type="html"><![CDATA[4:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봉제인간_GAEKKUM (네이버 TV ─ 온스테이지)]]></title>
         <id>https://tv.naver.com/v/37231069</id>
@@ -199,19 +213,5 @@
         <link href="https://tv.naver.com/v/33123997"/>
         <updated>2023-02-16T02:16:46.993Z</updated>
         <content type="html"><![CDATA[4:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배현이(baehyuni)_제주유자 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/33123953</id>
-        <link href="https://tv.naver.com/v/33123953"/>
-        <updated>2023-02-16T03:13:18.216Z</updated>
-        <content type="html"><![CDATA[2:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배현이(baehyuni)_주제를 알아라 (with. Nuclearboy) (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/33123945</id>
-        <link href="https://tv.naver.com/v/33123945"/>
-        <updated>2023-02-16T03:13:18.226Z</updated>
-        <content type="html"><![CDATA[3:06]]></content>
     </entry>
 </feed>
