@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-06-28T23:10:17.472Z</updated>
+    <updated>2023-06-29T03:22:54.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AGNES_Capital Empire]]></title>
+        <id>https://tv.naver.com/v/37467812</id>
+        <link href="https://tv.naver.com/v/37467812"/>
+        <updated>2023-06-29T03:22:54.055Z</updated>
+        <content type="html"><![CDATA[5:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AGNES_Mammon]]></title>
+        <id>https://tv.naver.com/v/37467818</id>
+        <link href="https://tv.naver.com/v/37467818"/>
+        <updated>2023-06-29T03:22:54.056Z</updated>
+        <content type="html"><![CDATA[5:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AGNES_Areumda War]]></title>
+        <id>https://tv.naver.com/v/37467800</id>
+        <link href="https://tv.naver.com/v/37467800"/>
+        <updated>2023-06-29T03:22:54.057Z</updated>
+        <content type="html"><![CDATA[5:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[FORSTAGE] PLAY4_뮤지션vs제작사 (바밍타이거'소금'vs마장뮤직앤픽처스)]]></title>
         <id>https://tv.naver.com/v/37382298</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/33532164"/>
         <updated>2023-03-02T02:23:25.291Z</updated>
         <content type="html"><![CDATA[3:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[oceanfromtheblue_잠자리 (Come Back Home)]]></title>
-        <id>https://tv.naver.com/v/33532153</id>
-        <link href="https://tv.naver.com/v/33532153"/>
-        <updated>2023-03-02T02:23:25.299Z</updated>
-        <content type="html"><![CDATA[3:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매미(MEMI)_Hate U]]></title>
-        <id>https://tv.naver.com/v/33359476</id>
-        <link href="https://tv.naver.com/v/33359476"/>
-        <updated>2023-02-23T02:15:21.765Z</updated>
-        <content type="html"><![CDATA[2:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매미(MEMI)_Guitar Pick]]></title>
-        <id>https://tv.naver.com/v/33359466</id>
-        <link href="https://tv.naver.com/v/33359466"/>
-        <updated>2023-02-23T02:15:21.768Z</updated>
-        <content type="html"><![CDATA[2:45]]></content>
     </entry>
 </feed>
