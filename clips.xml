@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-06-29T03:22:54.770Z</updated>
+    <updated>2023-06-29T05:15:47.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[AGNES_Capital Empire]]></title>
         <id>https://tv.naver.com/v/37467812</id>
         <link href="https://tv.naver.com/v/37467812"/>
-        <updated>2023-06-29T03:22:54.055Z</updated>
+        <updated>2023-06-29T05:15:46.332Z</updated>
         <content type="html"><![CDATA[5:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AGNES_Mammon]]></title>
         <id>https://tv.naver.com/v/37467818</id>
         <link href="https://tv.naver.com/v/37467818"/>
-        <updated>2023-06-29T03:22:54.056Z</updated>
+        <updated>2023-06-29T05:15:46.343Z</updated>
         <content type="html"><![CDATA[5:39]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AGNES_Areumda War]]></title>
         <id>https://tv.naver.com/v/37467800</id>
         <link href="https://tv.naver.com/v/37467800"/>
-        <updated>2023-06-29T03:22:54.057Z</updated>
+        <updated>2023-06-29T05:15:46.350Z</updated>
         <content type="html"><![CDATA[5:16]]></content>
     </entry>
     <entry>
