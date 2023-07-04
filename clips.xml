@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-07-04T00:47:59.812Z</updated>
+    <updated>2023-07-04T02:25:47.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[FORSTAGE]PAUSE_#TIMETOPLAY_ 바이닐지식정보]]></title>
+        <id>https://tv.naver.com/v/37617470</id>
+        <link href="https://tv.naver.com/v/37617470"/>
+        <updated>2023-07-04T02:25:46.637Z</updated>
+        <content type="html"><![CDATA[5:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AGNES_Mammon]]></title>
         <id>https://tv.naver.com/v/37467818</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33532909"/>
         <updated>2023-03-02T02:23:25.289Z</updated>
         <content type="html"><![CDATA[4:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[oceanfromtheblue_향 (Scent)]]></title>
-        <id>https://tv.naver.com/v/33532164</id>
-        <link href="https://tv.naver.com/v/33532164"/>
-        <updated>2023-03-02T02:23:25.291Z</updated>
-        <content type="html"><![CDATA[3:10]]></content>
     </entry>
 </feed>
