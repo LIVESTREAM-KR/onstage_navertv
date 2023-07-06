@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-07-06T00:49:54.334Z</updated>
+    <updated>2023-07-06T02:27:41.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[make up a riddle]]></title>
+        <id>https://tv.naver.com/v/37700815</id>
+        <link href="https://tv.naver.com/v/37700815"/>
+        <updated>2023-07-06T02:27:40.409Z</updated>
+        <content type="html"><![CDATA[6:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crispy cream no sugar]]></title>
+        <id>https://tv.naver.com/v/37700805</id>
+        <link href="https://tv.naver.com/v/37700805"/>
+        <updated>2023-07-06T02:27:40.412Z</updated>
+        <content type="html"><![CDATA[5:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call me if you can dance]]></title>
+        <id>https://tv.naver.com/v/37700787</id>
+        <link href="https://tv.naver.com/v/37700787"/>
+        <updated>2023-07-06T02:27:40.417Z</updated>
+        <content type="html"><![CDATA[4:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[FORSTAGE]PAUSE_#TIMETOPLAY_ 바이닐지식정보]]></title>
         <id>https://tv.naver.com/v/37617470</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/33765265"/>
         <updated>2023-03-09T02:22:15.495Z</updated>
         <content type="html"><![CDATA[5:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OUR AGE_You Will Find]]></title>
-        <id>https://tv.naver.com/v/33765254</id>
-        <link href="https://tv.naver.com/v/33765254"/>
-        <updated>2023-03-09T02:22:15.499Z</updated>
-        <content type="html"><![CDATA[3:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OUR AGE_Forgot]]></title>
-        <id>https://tv.naver.com/v/33765189</id>
-        <link href="https://tv.naver.com/v/33765189"/>
-        <updated>2023-03-09T02:22:15.505Z</updated>
-        <content type="html"><![CDATA[3:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[oceanfromtheblue_슈퍼마리오 (Super Mario)]]></title>
-        <id>https://tv.naver.com/v/33532909</id>
-        <link href="https://tv.naver.com/v/33532909"/>
-        <updated>2023-03-02T02:23:25.289Z</updated>
-        <content type="html"><![CDATA[4:06]]></content>
     </entry>
 </feed>
