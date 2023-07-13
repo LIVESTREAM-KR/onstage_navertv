@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage_navertv/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-13T00:48:53.865Z</updated>
+    <updated>2023-07-13T02:27:04.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Livaboard (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/37953031</id>
+        <link href="https://tv.naver.com/v/37953031"/>
+        <updated>2023-07-13T02:27:03.438Z</updated>
+        <content type="html"><![CDATA[5:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Horizon noir (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/37952980</id>
+        <link href="https://tv.naver.com/v/37952980"/>
+        <updated>2023-07-13T02:27:03.451Z</updated>
+        <content type="html"><![CDATA[6:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drive Through The Purple City (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/37952804</id>
+        <link href="https://tv.naver.com/v/37952804"/>
+        <updated>2023-07-13T02:27:03.452Z</updated>
+        <content type="html"><![CDATA[4:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[FORSTAGE] REPEAT_바이닐로 듣는 90년대 숨은 음악 믹스셋 (네이버 TV ─ 온스테이지)]]></title>
         <id>https://tv.naver.com/v/37798862</id>
@@ -192,26 +213,5 @@
         <link href="https://tv.naver.com/v/34229975"/>
         <updated>2023-03-23T02:01:40.065Z</updated>
         <content type="html"><![CDATA[3:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Other Life_어떤 슬픔을 위한 노래 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/33991841</id>
-        <link href="https://tv.naver.com/v/33991841"/>
-        <updated>2023-03-16T02:08:42.992Z</updated>
-        <content type="html"><![CDATA[4:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Other Life_Goin' Home (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/33991723</id>
-        <link href="https://tv.naver.com/v/33991723"/>
-        <updated>2023-03-16T02:08:42.997Z</updated>
-        <content type="html"><![CDATA[4:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Other Life_Odd 3 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/33991615</id>
-        <link href="https://tv.naver.com/v/33991615"/>
-        <updated>2023-03-16T02:08:42.999Z</updated>
-        <content type="html"><![CDATA[6:10]]></content>
     </entry>
 </feed>
