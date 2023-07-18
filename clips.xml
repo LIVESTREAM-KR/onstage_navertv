@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-07-18T01:06:23.526Z</updated>
+    <updated>2023-07-18T02:55:10.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[FORSTAGE]STOP_#VINYLREVIVAL_ 바이닐지식정보]]></title>
+        <id>https://tv.naver.com/v/38140991</id>
+        <link href="https://tv.naver.com/v/38140991"/>
+        <updated>2023-07-18T02:55:10.048Z</updated>
+        <content type="html"><![CDATA[6:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liveaboard]]></title>
         <id>https://tv.naver.com/v/37953031</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34229988"/>
         <updated>2023-03-23T02:01:40.063Z</updated>
         <content type="html"><![CDATA[3:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다운(Dvwn)_사심]]></title>
-        <id>https://tv.naver.com/v/34229975</id>
-        <link href="https://tv.naver.com/v/34229975"/>
-        <updated>2023-03-23T02:01:40.065Z</updated>
-        <content type="html"><![CDATA[3:53]]></content>
     </entry>
 </feed>
