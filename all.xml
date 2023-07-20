@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage_navertv/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-20T00:42:47.190Z</updated>
+    <updated>2023-07-20T02:01:34.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Lo Que No Te Dije Antes (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/38199492</id>
+        <link href="https://tv.naver.com/v/38199492"/>
+        <updated>2023-07-20T02:01:33.725Z</updated>
+        <content type="html"><![CDATA[3:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ninina (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/38199433</id>
+        <link href="https://tv.naver.com/v/38199433"/>
+        <updated>2023-07-20T02:01:33.740Z</updated>
+        <content type="html"><![CDATA[2:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mañanitas De Buenos Aires (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/38199280</id>
+        <link href="https://tv.naver.com/v/38199280"/>
+        <updated>2023-07-20T02:01:33.740Z</updated>
+        <content type="html"><![CDATA[3:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[FORSTAGE]STOP_#VINYLREVIVAL_ 바이닐지식정보 (네이버 TV ─ 온스테이지)]]></title>
         <id>https://tv.naver.com/v/38140991</id>
@@ -192,26 +213,5 @@
         <link href="https://tv.naver.com/v/34467505"/>
         <updated>2023-03-30T02:05:27.133Z</updated>
         <content type="html"><![CDATA[3:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GongGongGoo009_집 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/34467500</id>
-        <link href="https://tv.naver.com/v/34467500"/>
-        <updated>2023-03-30T02:05:27.134Z</updated>
-        <content type="html"><![CDATA[1:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다운(Dvwn)_BADKID!!! (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/34229998</id>
-        <link href="https://tv.naver.com/v/34229998"/>
-        <updated>2023-03-23T02:01:40.062Z</updated>
-        <content type="html"><![CDATA[3:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다운(Dvwn)_Highteen (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/34229988</id>
-        <link href="https://tv.naver.com/v/34229988"/>
-        <updated>2023-03-23T02:01:40.063Z</updated>
-        <content type="html"><![CDATA[3:02]]></content>
     </entry>
 </feed>
