@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-08-10T00:41:57.683Z</updated>
+    <updated>2023-08-10T02:01:21.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밀릭_CLION]]></title>
+        <id>https://tv.naver.com/v/38868201</id>
+        <link href="https://tv.naver.com/v/38868201"/>
+        <updated>2023-08-10T02:01:21.150Z</updated>
+        <content type="html"><![CDATA[3:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Carina Nebula_susie Q]]></title>
         <id>https://tv.naver.com/v/38624534</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36983537"/>
         <updated>2023-06-15T02:08:44.938Z</updated>
         <content type="html"><![CDATA[2:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장명선_틈 + 일기장]]></title>
-        <id>https://tv.naver.com/v/36983418</id>
-        <link href="https://tv.naver.com/v/36983418"/>
-        <updated>2023-06-15T02:08:44.956Z</updated>
-        <content type="html"><![CDATA[6:38]]></content>
     </entry>
 </feed>
