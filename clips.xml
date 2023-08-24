@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-08-24T01:39:05.508Z</updated>
+    <updated>2023-08-24T02:12:49.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미란이_니가 싫어 (Feat. SUMIN)]]></title>
+        <id>https://tv.naver.com/v/39378997</id>
+        <link href="https://tv.naver.com/v/39378997"/>
+        <updated>2023-08-24T02:12:48.413Z</updated>
+        <content type="html"><![CDATA[3:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미란이_야]]></title>
+        <id>https://tv.naver.com/v/39378933</id>
+        <link href="https://tv.naver.com/v/39378933"/>
+        <updated>2023-08-24T02:12:48.423Z</updated>
+        <content type="html"><![CDATA[2:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미란이_Intro + BAD BOY]]></title>
+        <id>https://tv.naver.com/v/39378891</id>
+        <link href="https://tv.naver.com/v/39378891"/>
+        <updated>2023-08-24T02:12:48.424Z</updated>
+        <content type="html"><![CDATA[2:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[허정혁_수풀]]></title>
         <id>https://tv.naver.com/v/39211749</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/37467800"/>
         <updated>2023-06-29T08:23:27.384Z</updated>
         <content type="html"><![CDATA[5:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[FORSTAGE] PLAY4_뮤지션vs제작사 (바밍타이거'소금'vs마장뮤직앤픽처스)]]></title>
-        <id>https://tv.naver.com/v/37382298</id>
-        <link href="https://tv.naver.com/v/37382298"/>
-        <updated>2023-06-28T02:24:48.565Z</updated>
-        <content type="html"><![CDATA[4:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[FORSTAGE] PLAY3_1990vs2020 (빛과소금vs아도이'오주환')]]></title>
-        <id>https://tv.naver.com/v/37382212</id>
-        <link href="https://tv.naver.com/v/37382212"/>
-        <updated>2023-06-28T02:24:48.567Z</updated>
-        <content type="html"><![CDATA[4:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[FORSTAGE] PLAY2_컬렉터vs컬렉터 (DJ소울스케이프vs하세가와요헤이)]]></title>
-        <id>https://tv.naver.com/v/37382060</id>
-        <link href="https://tv.naver.com/v/37382060"/>
-        <updated>2023-08-21T03:08:22.110Z</updated>
-        <content type="html"><![CDATA[5:15]]></content>
     </entry>
 </feed>
