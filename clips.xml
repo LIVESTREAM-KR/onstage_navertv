@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-08-31T00:33:23.084Z</updated>
+    <updated>2023-08-31T01:41:23.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백아_우주선]]></title>
+        <id>https://tv.naver.com/v/39653801</id>
+        <link href="https://tv.naver.com/v/39653801"/>
+        <updated>2023-08-31T01:41:22.275Z</updated>
+        <content type="html"><![CDATA[4:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백아_첫사랑]]></title>
+        <id>https://tv.naver.com/v/39653796</id>
+        <link href="https://tv.naver.com/v/39653796"/>
+        <updated>2023-08-31T01:41:22.281Z</updated>
+        <content type="html"><![CDATA[3:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백아_미완성]]></title>
+        <id>https://tv.naver.com/v/39653792</id>
+        <link href="https://tv.naver.com/v/39653792"/>
+        <updated>2023-08-31T01:41:22.289Z</updated>
+        <content type="html"><![CDATA[2:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미란이_니가 싫어 (Feat. SUMIN)]]></title>
         <id>https://tv.naver.com/v/39378997</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/37617470"/>
         <updated>2023-07-04T02:25:46.637Z</updated>
         <content type="html"><![CDATA[5:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AGNES_Mammon]]></title>
-        <id>https://tv.naver.com/v/37467818</id>
-        <link href="https://tv.naver.com/v/37467818"/>
-        <updated>2023-06-29T08:23:27.382Z</updated>
-        <content type="html"><![CDATA[5:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AGNES_Capital Empire]]></title>
-        <id>https://tv.naver.com/v/37467812</id>
-        <link href="https://tv.naver.com/v/37467812"/>
-        <updated>2023-06-29T08:23:27.382Z</updated>
-        <content type="html"><![CDATA[5:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AGNES_Areumda War (아름다워)]]></title>
-        <id>https://tv.naver.com/v/37467800</id>
-        <link href="https://tv.naver.com/v/37467800"/>
-        <updated>2023-06-29T08:23:27.384Z</updated>
-        <content type="html"><![CDATA[5:16]]></content>
     </entry>
 </feed>
