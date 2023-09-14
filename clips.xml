@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-09-14T01:40:53.018Z</updated>
+    <updated>2023-09-14T02:14:40.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Last Long]]></title>
+        <id>https://tv.naver.com/v/40223833</id>
+        <link href="https://tv.naver.com/v/40223833"/>
+        <updated>2023-09-14T02:14:39.820Z</updated>
+        <content type="html"><![CDATA[3:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adrenaline]]></title>
+        <id>https://tv.naver.com/v/40223738</id>
+        <link href="https://tv.naver.com/v/40223738"/>
+        <updated>2023-09-14T02:14:39.825Z</updated>
+        <content type="html"><![CDATA[2:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[007]]></title>
+        <id>https://tv.naver.com/v/40223692</id>
+        <link href="https://tv.naver.com/v/40223692"/>
+        <updated>2023-09-14T02:14:39.839Z</updated>
+        <content type="html"><![CDATA[3:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바람]]></title>
         <id>https://tv.naver.com/v/39923558</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/37952980"/>
         <updated>2023-07-13T02:27:03.451Z</updated>
         <content type="html"><![CDATA[6:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drive Through The Purple City]]></title>
-        <id>https://tv.naver.com/v/37952804</id>
-        <link href="https://tv.naver.com/v/37952804"/>
-        <updated>2023-07-13T02:27:03.452Z</updated>
-        <content type="html"><![CDATA[4:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[FORSTAGE] REPEAT_바이닐로 듣는 90년대 숨은 음악 믹스셋]]></title>
-        <id>https://tv.naver.com/v/37798862</id>
-        <link href="https://tv.naver.com/v/37798862"/>
-        <updated>2023-07-11T02:17:55.525Z</updated>
-        <content type="html"><![CDATA[46:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[make up a riddle]]></title>
-        <id>https://tv.naver.com/v/37700815</id>
-        <link href="https://tv.naver.com/v/37700815"/>
-        <updated>2023-07-06T02:27:40.409Z</updated>
-        <content type="html"><![CDATA[6:30]]></content>
     </entry>
 </feed>
