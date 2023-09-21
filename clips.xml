@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-09-21T00:33:30.377Z</updated>
+    <updated>2023-09-21T01:41:03.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Solo Improvisation]]></title>
+        <id>https://tv.naver.com/v/40493036</id>
+        <link href="https://tv.naver.com/v/40493036"/>
+        <updated>2023-09-21T01:41:02.263Z</updated>
+        <content type="html"><![CDATA[4:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustration]]></title>
+        <id>https://tv.naver.com/v/40492955</id>
+        <link href="https://tv.naver.com/v/40492955"/>
+        <updated>2023-09-21T01:41:02.263Z</updated>
+        <content type="html"><![CDATA[4:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Beboppers]]></title>
+        <id>https://tv.naver.com/v/40492848</id>
+        <link href="https://tv.naver.com/v/40492848"/>
+        <updated>2023-09-21T01:41:02.267Z</updated>
+        <content type="html"><![CDATA[6:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Last Long]]></title>
         <id>https://tv.naver.com/v/40223833</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/38199280"/>
         <updated>2023-07-20T02:01:33.740Z</updated>
         <content type="html"><![CDATA[3:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[FORSTAGE]STOP_#VINYLREVIVAL_ 바이닐지식정보]]></title>
-        <id>https://tv.naver.com/v/38140991</id>
-        <link href="https://tv.naver.com/v/38140991"/>
-        <updated>2023-07-18T02:55:10.048Z</updated>
-        <content type="html"><![CDATA[6:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liveaboard]]></title>
-        <id>https://tv.naver.com/v/37953031</id>
-        <link href="https://tv.naver.com/v/37953031"/>
-        <updated>2023-07-13T02:27:03.438Z</updated>
-        <content type="html"><![CDATA[5:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Horizon noir]]></title>
-        <id>https://tv.naver.com/v/37952980</id>
-        <link href="https://tv.naver.com/v/37952980"/>
-        <updated>2023-07-13T02:27:03.451Z</updated>
-        <content type="html"><![CDATA[6:08]]></content>
     </entry>
 </feed>
