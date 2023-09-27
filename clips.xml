@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-09-27T00:34:21.313Z</updated>
+    <updated>2023-09-27T01:42:38.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Love Supreme]]></title>
+        <id>https://tv.naver.com/v/40726564</id>
+        <link href="https://tv.naver.com/v/40726564"/>
+        <updated>2023-09-27T01:42:37.316Z</updated>
+        <content type="html"><![CDATA[5:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RIDE]]></title>
+        <id>https://tv.naver.com/v/40726485</id>
+        <link href="https://tv.naver.com/v/40726485"/>
+        <updated>2023-09-27T01:42:37.316Z</updated>
+        <content type="html"><![CDATA[4:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오래오래]]></title>
+        <id>https://tv.naver.com/v/40726420</id>
+        <link href="https://tv.naver.com/v/40726420"/>
+        <updated>2023-09-27T01:42:37.317Z</updated>
+        <content type="html"><![CDATA[3:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solo Improvisation]]></title>
         <id>https://tv.naver.com/v/40493036</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/38435353"/>
         <updated>2023-07-27T08:10:31.204Z</updated>
         <content type="html"><![CDATA[5:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lo Que No Te Dije Antes]]></title>
-        <id>https://tv.naver.com/v/38199492</id>
-        <link href="https://tv.naver.com/v/38199492"/>
-        <updated>2023-07-20T02:01:33.725Z</updated>
-        <content type="html"><![CDATA[3:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninina]]></title>
-        <id>https://tv.naver.com/v/38199433</id>
-        <link href="https://tv.naver.com/v/38199433"/>
-        <updated>2023-07-20T02:01:33.740Z</updated>
-        <content type="html"><![CDATA[2:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mañanitas De Buenos Aires]]></title>
-        <id>https://tv.naver.com/v/38199280</id>
-        <link href="https://tv.naver.com/v/38199280"/>
-        <updated>2023-07-20T02:01:33.740Z</updated>
-        <content type="html"><![CDATA[3:54]]></content>
     </entry>
 </feed>
