@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage_navertv/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-05T05:08:19.660Z</updated>
+    <updated>2023-10-05T06:11:23.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Cargo Cult (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/40994039</id>
+        <link href="https://tv.naver.com/v/40994039"/>
+        <updated>2023-10-05T06:11:22.181Z</updated>
+        <content type="html"><![CDATA[7:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Everytime, I Start (네이버 TV ─ 온스테이지)]]></title>
         <id>https://tv.naver.com/v/40993980</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/38624429"/>
         <updated>2023-08-03T02:02:43.037Z</updated>
         <content type="html"><![CDATA[5:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상 속으로 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/38435383</id>
-        <link href="https://tv.naver.com/v/38435383"/>
-        <updated>2023-07-27T01:53:25.900Z</updated>
-        <content type="html"><![CDATA[4:35]]></content>
     </entry>
 </feed>
