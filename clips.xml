@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-10-19T01:43:01.261Z</updated>
+    <updated>2023-10-19T02:16:17.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[So Alive]]></title>
+        <id>https://tv.naver.com/v/41547388</id>
+        <link href="https://tv.naver.com/v/41547388"/>
+        <updated>2023-10-19T02:16:17.016Z</updated>
+        <content type="html"><![CDATA[3:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시체꽃]]></title>
+        <id>https://tv.naver.com/v/41547290</id>
+        <link href="https://tv.naver.com/v/41547290"/>
+        <updated>2023-10-19T02:16:17.028Z</updated>
+        <content type="html"><![CDATA[8:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광합성]]></title>
+        <id>https://tv.naver.com/v/41547159</id>
+        <link href="https://tv.naver.com/v/41547159"/>
+        <updated>2023-10-19T02:16:17.029Z</updated>
+        <content type="html"><![CDATA[5:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[침대에서/막걸리]]></title>
         <id>https://tv.naver.com/v/41270681</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/39146016"/>
         <updated>2023-08-17T02:11:22.974Z</updated>
         <content type="html"><![CDATA[4:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀릭_CLIONE]]></title>
-        <id>https://tv.naver.com/v/38868201</id>
-        <link href="https://tv.naver.com/v/38868201"/>
-        <updated>2023-08-10T02:01:21.150Z</updated>
-        <content type="html"><![CDATA[3:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀릭_SEA SPARKLE]]></title>
-        <id>https://tv.naver.com/v/38868134</id>
-        <link href="https://tv.naver.com/v/38868134"/>
-        <updated>2023-08-10T03:08:37.763Z</updated>
-        <content type="html"><![CDATA[3:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀릭_백화]]></title>
-        <id>https://tv.naver.com/v/38868128</id>
-        <link href="https://tv.naver.com/v/38868128"/>
-        <updated>2023-08-10T03:08:37.763Z</updated>
-        <content type="html"><![CDATA[4:56]]></content>
     </entry>
 </feed>
