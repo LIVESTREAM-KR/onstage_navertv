@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-10-26T02:15:42.376Z</updated>
+    <updated>2023-10-26T03:08:29.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dented OS]]></title>
+        <id>https://tv.naver.com/v/41905445</id>
+        <link href="https://tv.naver.com/v/41905445"/>
+        <updated>2023-10-26T03:08:28.684Z</updated>
+        <content type="html"><![CDATA[3:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TUNNEL BABY]]></title>
+        <id>https://tv.naver.com/v/41905372</id>
+        <link href="https://tv.naver.com/v/41905372"/>
+        <updated>2023-10-26T03:08:28.684Z</updated>
+        <content type="html"><![CDATA[3:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2004]]></title>
+        <id>https://tv.naver.com/v/41905217</id>
+        <link href="https://tv.naver.com/v/41905217"/>
+        <updated>2023-10-26T03:08:28.695Z</updated>
+        <content type="html"><![CDATA[4:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[So Alive]]></title>
         <id>https://tv.naver.com/v/41547388</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/39378891"/>
         <updated>2023-08-24T02:12:48.424Z</updated>
         <content type="html"><![CDATA[2:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허정혁_수풀]]></title>
-        <id>https://tv.naver.com/v/39211749</id>
-        <link href="https://tv.naver.com/v/39211749"/>
-        <updated>2023-08-18T11:06:00.583Z</updated>
-        <content type="html"><![CDATA[5:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허정혁_계절따라]]></title>
-        <id>https://tv.naver.com/v/39146051</id>
-        <link href="https://tv.naver.com/v/39146051"/>
-        <updated>2023-08-17T02:11:22.972Z</updated>
-        <content type="html"><![CDATA[4:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허정혁_창가에 앉아]]></title>
-        <id>https://tv.naver.com/v/39146016</id>
-        <link href="https://tv.naver.com/v/39146016"/>
-        <updated>2023-08-17T02:11:22.974Z</updated>
-        <content type="html"><![CDATA[4:46]]></content>
     </entry>
 </feed>
