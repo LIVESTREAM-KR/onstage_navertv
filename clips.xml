@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/onstage/clips</id>
     <title>네이버 TV ─ 온스테이지</title>
-    <updated>2023-11-02T03:08:48.323Z</updated>
+    <updated>2023-11-02T04:09:09.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/onstage/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하얗게 부서지는]]></title>
+        <id>https://tv.naver.com/v/42185392</id>
+        <link href="https://tv.naver.com/v/42185392"/>
+        <updated>2023-11-02T04:09:08.822Z</updated>
+        <content type="html"><![CDATA[3:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피어나는 물결]]></title>
+        <id>https://tv.naver.com/v/42185296</id>
+        <link href="https://tv.naver.com/v/42185296"/>
+        <updated>2023-11-02T04:09:08.826Z</updated>
+        <content type="html"><![CDATA[4:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외롭고 시끄럽고 그리워]]></title>
+        <id>https://tv.naver.com/v/42185167</id>
+        <link href="https://tv.naver.com/v/42185167"/>
+        <updated>2023-11-02T04:09:08.826Z</updated>
+        <content type="html"><![CDATA[5:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dented OS]]></title>
         <id>https://tv.naver.com/v/41905445</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/39653792"/>
         <updated>2023-08-31T01:41:22.289Z</updated>
         <content type="html"><![CDATA[2:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미란이_니가 싫어 (Feat. SUMIN)]]></title>
-        <id>https://tv.naver.com/v/39378997</id>
-        <link href="https://tv.naver.com/v/39378997"/>
-        <updated>2023-08-24T02:12:48.413Z</updated>
-        <content type="html"><![CDATA[3:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미란이_야]]></title>
-        <id>https://tv.naver.com/v/39378933</id>
-        <link href="https://tv.naver.com/v/39378933"/>
-        <updated>2023-08-24T02:12:48.423Z</updated>
-        <content type="html"><![CDATA[2:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미란이_Intro + BAD BOY]]></title>
-        <id>https://tv.naver.com/v/39378891</id>
-        <link href="https://tv.naver.com/v/39378891"/>
-        <updated>2023-08-24T02:12:48.424Z</updated>
-        <content type="html"><![CDATA[2:46]]></content>
     </entry>
 </feed>
