@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage_navertv/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-09T01:44:38.958Z</updated>
+    <updated>2023-11-09T02:18:42.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[포기가 익숙한 사람 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/42528314</id>
+        <link href="https://tv.naver.com/v/42528314"/>
+        <updated>2023-11-09T02:18:40.984Z</updated>
+        <content type="html"><![CDATA[3:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그걸 내가 모를까 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/42528213</id>
+        <link href="https://tv.naver.com/v/42528213"/>
+        <updated>2023-11-09T02:18:40.986Z</updated>
+        <content type="html"><![CDATA[4:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생일 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/42528087</id>
+        <link href="https://tv.naver.com/v/42528087"/>
+        <updated>2023-11-09T02:18:40.990Z</updated>
+        <content type="html"><![CDATA[2:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하얗게 부서지는 (네이버 TV ─ 온스테이지)]]></title>
         <id>https://tv.naver.com/v/42185392</id>
@@ -192,26 +213,5 @@
         <link href="https://tv.naver.com/v/39923423"/>
         <updated>2023-09-07T01:40:59.692Z</updated>
         <content type="html"><![CDATA[4:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백아_우주선 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/39653801</id>
-        <link href="https://tv.naver.com/v/39653801"/>
-        <updated>2023-08-31T01:41:22.275Z</updated>
-        <content type="html"><![CDATA[4:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백아_첫사랑 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/39653796</id>
-        <link href="https://tv.naver.com/v/39653796"/>
-        <updated>2023-08-31T01:41:22.281Z</updated>
-        <content type="html"><![CDATA[3:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백아_미완성 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/39653792</id>
-        <link href="https://tv.naver.com/v/39653792"/>
-        <updated>2023-08-31T01:41:22.289Z</updated>
-        <content type="html"><![CDATA[2:25]]></content>
     </entry>
 </feed>
