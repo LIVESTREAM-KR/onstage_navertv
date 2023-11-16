@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage_navertv/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-16T04:09:58.414Z</updated>
+    <updated>2023-11-16T05:07:59.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[행운을 빌어요 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/42918048</id>
+        <link href="https://tv.naver.com/v/42918048"/>
+        <updated>2023-11-16T05:07:58.629Z</updated>
+        <content type="html"><![CDATA[5:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21세기의 어떤 날 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/42917970</id>
+        <link href="https://tv.naver.com/v/42917970"/>
+        <updated>2023-11-16T05:07:58.636Z</updated>
+        <content type="html"><![CDATA[4:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Hippie Generation (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/42917894</id>
+        <link href="https://tv.naver.com/v/42917894"/>
+        <updated>2023-11-16T05:07:58.637Z</updated>
+        <content type="html"><![CDATA[4:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포기가 익숙한 사람 (네이버 TV ─ 온스테이지)]]></title>
         <id>https://tv.naver.com/v/42528314</id>
@@ -192,26 +213,5 @@
         <link href="https://tv.naver.com/v/40223692"/>
         <updated>2023-09-14T02:14:39.839Z</updated>
         <content type="html"><![CDATA[3:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바람 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/39923558</id>
-        <link href="https://tv.naver.com/v/39923558"/>
-        <updated>2023-09-07T01:40:59.687Z</updated>
-        <content type="html"><![CDATA[6:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black stone train + Keepitonthedownlow (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/39923488</id>
-        <link href="https://tv.naver.com/v/39923488"/>
-        <updated>2023-09-07T01:40:59.689Z</updated>
-        <content type="html"><![CDATA[7:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Whistle Song (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/39923423</id>
-        <link href="https://tv.naver.com/v/39923423"/>
-        <updated>2023-09-07T01:40:59.692Z</updated>
-        <content type="html"><![CDATA[4:08]]></content>
     </entry>
 </feed>
