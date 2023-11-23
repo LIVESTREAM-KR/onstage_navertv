@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage_navertv/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-23T06:10:26.630Z</updated>
+    <updated>2023-11-23T07:07:32.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[🎁 After ONSTAGE 🎁 숨은 음악을 아껴 주신 모든 분들에게 (네이버 TV ─ 온스테이지)]]></title>
+        <id>https://tv.naver.com/v/43273839</id>
+        <link href="https://tv.naver.com/v/43273839"/>
+        <updated>2023-11-23T07:07:32.068Z</updated>
+        <content type="html"><![CDATA[1:28:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[행운을 빌어요 (네이버 TV ─ 온스테이지)]]></title>
         <id>https://tv.naver.com/v/42918048</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/40223738"/>
         <updated>2023-11-22T20:08:23.998Z</updated>
         <content type="html"><![CDATA[2:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[007 (네이버 TV ─ 온스테이지)]]></title>
-        <id>https://tv.naver.com/v/40223692</id>
-        <link href="https://tv.naver.com/v/40223692"/>
-        <updated>2023-11-22T20:08:23.999Z</updated>
-        <content type="html"><![CDATA[3:21]]></content>
     </entry>
 </feed>
